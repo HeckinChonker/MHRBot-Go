@@ -19,7 +19,7 @@ func init() {
 	flag.Parse()
 }
 
-var token = "NDk4NTg2Mjc4OTUxMTI0OTky.W7pmqA.uPCxpBFIriWOSsXF9aFrdYnM1SE"
+var token = "CHANGEME"
 var buffer = make([][]byte, 0)
 
 func main() {
